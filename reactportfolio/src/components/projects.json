@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Weather Tracker",
+        "image": ".//images/1920px-React-icon.png",
+        "description": "Track your local or national weather!",
+        "link": "https://granderojo17.github.io/my-weather-app/",
+        "github": "https://github.com/GrandeRojo17/my-weather-app"
+    },
+    {
+        "id": 2,
+        "title": "Fitness Tracker",
+        "image": "../images/picture",
+        "description": "Track your fitness stats!",
+        "link": "https://fitnesstracker00001.herokuapp.com/",
+        "github": "https://github.com/GrandeRojo17/fitnessTracker"
+    },
+    {
+        "id": 3,
+        "title": "User Directory",
+        "image": "../images/picture",
+        "description": "Search through a list of Employees",
+        "link": "https://userdirectory01.herokuapp.com/",
+        "github": "https://github.com/GrandeRojo17/UserDirectory"
+    },
+    {
+        "id": 4,
+        "title": "Professional Note-Keeper",
+        "image": "../images/picture",
+        "description": "Take notes for later!",
+        "link": "https://note-taker-2000.herokuapp.com/",
+        "github": "https://github.com/GrandeRojo17/note-taking-app"
+    },
+    {
+        "id": 5,
+        "title": "Burger App",
+        "image": "../images/picture",
+        "description": "Design the perfect burger!",
+        "link": "https://burger-creator-3000.herokuapp.com/",
+        "github": "https://github.com/GrandeRojo17/TheBurger"
+    }
+]
