@@ -24,7 +24,12 @@ html{
   color: rgb(211, 64, 45);
 }
 /*General Navigation:Links ------------------------------------------------------- */
+nav h2 a:visited{color: var(--main-bg-color)
 
+
+}
+nav h2 a:hover {color: rgb(255, 133, 19)}
+/* nav h2 a {color: var(--main-bg-color)} */
 nav{
   color:rgb(255, 163, 163);
   font-size: 24px;

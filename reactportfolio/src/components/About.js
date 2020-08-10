@@ -4,7 +4,7 @@ import ProfilePic from '../images/snapchat_bitmoji_clear_transparent_faceOnly_cr
 
 import "../index.css"
 
-const Navbar = () => {
+const About = () => {
     return (
         <div className="about-container">
             <h1>HELLOO!👋</h1>
@@ -17,4 +17,4 @@ const Navbar = () => {
     )
 }
 
-export default Navbar;
+export default About;

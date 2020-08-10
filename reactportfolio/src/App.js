@@ -17,12 +17,14 @@ class App extends Component {
           <NavBar />
           <Switch>
             <Route exact path={process.env.PUBLIC_URL + "/"} component={About} />
+            <Route exact path={process.env.PUBLIC_URL + "/about"} component={About} />
             <Route exact path={process.env.PUBLIC_URL + "/portfolio"} component={Portfolio} />
             <Route exact path={process.env.PUBLIC_URL + "/contact"} component={Contact} />
             {/* <Route exact path={process.env.PUBLIC_URL + "/contact"} component={Contact} /> */}
           </Switch>
           <Footer />
         </div>
+
       </Router>
     )
   }
