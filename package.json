@@ -1,5 +1,5 @@
 {
-  "homepage": "http:///About",
+  "homepage": "https://github.com/GrandeRojo17/react-profile01/tree/master/reactportfolio",
   "name": "reactportfolio",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +11,7 @@
     "framer-motion": "^2.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-scroll": "^1.8.0",
@@ -53,5 +54,5 @@
   "bugs": {
     "url": "https://github.com/GrandeRojo17/react-profile01/issues"
   },
-  "description": ""
+  "description": "by David Yennerell a.k.a granderojo17 on 08/03/2020"
 }
