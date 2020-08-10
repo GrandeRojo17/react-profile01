@@ -1,4 +1,4 @@
- # **React Portfolio Page🕵🏽** 
+ # **React Portfolio Page🤑** 
   by David Yennerell a.k.a granderojo17 on 08/03/2020
 
  Full APP:  https://granderojo17.github.io/react-profile01/
@@ -9,10 +9,12 @@
   A portfolio app made with React. I had alot of fun making this project and I look forward to learning more 
  react. 
 <div>
-<img style="border-style: solid " src="./images/UserDirectory_pic_01.PNG" width="100%" />
+<img style="border-style: solid " src="./images/reactPortfolio_pic_01.PNG" width="100%" />
 <hr>
-<h2>'Quick Look-up' Enabled 🔍 </h2>
-<img style="border-style: solid " src="./images/UserDirectory_pic_02.PNG" width="100%" />
+<h2>Project Look-up 🔍 </h2>
+<img style="border-style: solid " src="./images/reactPortfolio_pic_02.PNG" width="100%" />
+ Quick access contact
+<img style="border-style: solid " src="images/reactPortfolio_pic_03.PNG" width="100%" />
 
 
 </div>
@@ -29,7 +31,7 @@
   ## Installation⛹️‍♀️
    follow the link or otherwise haave a local database nearby.
   ### To install necessary dependencies, run the following command:
-   https://fitnesstracker00001.herokuapp.com/ and click "Continue Workout" and then fill in your workout
+  https://granderojo17.github.io/react-profile01/ and enjoy the site. 
   # **Usage🗂**
   Search through the employees at your leisure.
   # **License🌌**
@@ -38,7 +40,7 @@
 
  
   ```
-Follow the link ..🤑
+Follow the link ..
 ```
   
  

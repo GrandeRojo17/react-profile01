@@ -4,26 +4,6 @@ import projects from "./projects.json";
 import ProjectCard from "./ProjectCard";
 import Wrapper from "./Wrapper";
 
-import { Link } from 'react-router-dom';
-import { Button } from 'reactstrap';
-
-// function Portfolio() {
-//     return (<div className="project-container">
-//         <ProjectCard id={projects.id}
-//             title={projects.name}
-//             image={projects.image}
-//             occupation={projects.desciption} />
-//         <ProjectCard id={projects.id}
-//             title={projects.name}
-//             image={projects.image}
-//             occupation={projects.desciption} />
-//         <ProjectCard id={projects.id}
-//             title={projects.name}
-//             image={projects.image}
-//             occupation={projects.desciption} />
-//     </div>
-//     )
-// }
 class Portfolio extends Component {
     // Setting this.state.projects to the projects json array
     state = {

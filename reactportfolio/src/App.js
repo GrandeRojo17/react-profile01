@@ -22,6 +22,7 @@ class App extends Component {
             <Route exact path={process.env.PUBLIC_URL + "/contact"} component={Contact} />
             {/* <Route exact path={process.env.PUBLIC_URL + "/contact"} component={Contact} /> */}
           </Switch>
+
           <Footer />
         </div>
 
